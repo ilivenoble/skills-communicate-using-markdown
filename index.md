@@ -9,3 +9,7 @@ Happy to be committing these changes
 ```Javascript
 var myVar = "Hello, world!";
 ```
+# My task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
