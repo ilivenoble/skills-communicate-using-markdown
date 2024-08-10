@@ -2,4 +2,6 @@
 ## Great way to learn about markdown
 
 
-Happy to be committing this changes
+Happy to be committing these changes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
